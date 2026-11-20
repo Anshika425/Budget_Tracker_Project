@@ -19,7 +19,7 @@ Python, Pandas aur Matplotlib ka use karke banaya gaya ek simple budget tracker.
 1. Notebook `Budget_Tracker.ipynb` ko Google Colab mein kholein (notebook ke upar "Open in Colab" badge par click karein).
 2. Saare cells ko upar se neeche run karein.
 
-Project report: Budget_Tracker_Report.pdf
+[Project report](Budget_Tracker_Report.pdf)
  
 ## Author
 Anshika
